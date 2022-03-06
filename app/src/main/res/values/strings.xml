@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TestTask</string>
+
+    <string name="title_register">Создать аккаунт</string>
+    <string name="name">Имя</string>
+    <string name="surname">Фамилия</string>
+    <string name="email">Email</string>
+    <string name="password">Пароль</string>
+    <string name="confirm_password">Подтвердите пароль</string>
+    <string name="rules">Я согласен с пользовательским соглашением</string>
+    <string name="btn_login"><u>Есть аккаунт? Войти</u></string>
+    <string name="create_account">Создать аккаунт</string>
+    <string name="forgot_password"><u>Забыли пароль?</u></string>
+    <string name="tv_btn_register"><u>Зарегистрироваться</u></string>
+    <string name="login">Войти</string>
+
+    <string name="invalidate_data">Invalidate data</string>
+    <string name="success">Success!</string>
+    <string name="success_registery">Регистрация прошла успешно!</string>
+    <string name="patronymic">Отчество</string>
+    <string name="phone_number">Телефон</string>
+    <string name="date_of_birth">Дата рождения</string>
+    <string name="change_data"><u>Редактировать</u></string>
+    <string name="username">Имя Фамилия</string>
+
+</resources>
